@@ -1,0 +1,95 @@
+{
+ "date": "2026-10-07",
+ "groups": {
+  "kids_printables": {
+   "US": {
+    "coloring book printable": {
+     "avg": 5.5,
+     "arah": "turun"
+    },
+    "coloring pages for kids": {
+     "avg": 66.1,
+     "arah": "turun"
+    },
+    "busy book printable": {
+     "avg": 0.0,
+     "arah": "datar"
+    }
+   },
+   "ID": {
+    "coloring book printable": {
+     "avg": 0.0,
+     "arah": "datar"
+    },
+    "coloring pages for kids": {
+     "avg": 3.7,
+     "arah": "naik"
+    },
+    "busy book printable": {
+     "avg": 1.9,
+     "arah": "turun"
+    }
+   }
+  },
+  "planners": {
+   "US": {
+    "printable planner": {
+     "avg": 56.3,
+     "arah": "datar"
+    },
+    "budget planner printable": {
+     "avg": 1.3,
+     "arah": "turun"
+    },
+    "daily planner pdf": {
+     "avg": 6.9,
+     "arah": "turun"
+    }
+   },
+   "ID": {
+    "printable planner": {
+     "avg": 4.1,
+     "arah": "datar"
+    },
+    "budget planner printable": {
+     "avg": 1.0,
+     "arah": "datar"
+    },
+    "daily planner pdf": {
+     "avg": 0.8,
+     "arah": "turun"
+    }
+   }
+  },
+  "islamic_kids": {
+   "US": {
+    "hijaiyah": {
+     "avg": 3.1,
+     "arah": "turun"
+    },
+    "arabic alphabet for kids": {
+     "avg": 0.3,
+     "arah": "naik"
+    },
+    "islamic coloring book": {
+     "avg": 0.0,
+     "arah": "datar"
+    }
+   },
+   "ID": {
+    "hijaiyah": {
+     "avg": 48.2,
+     "arah": "naik"
+    },
+    "arabic alphabet for kids": {
+     "avg": 0.0,
+     "arah": "datar"
+    },
+    "islamic coloring book": {
+     "avg": 0.0,
+     "arah": "datar"
+    }
+   }
+  }
+ }
+}
